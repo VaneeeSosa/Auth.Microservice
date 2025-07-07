@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\controllers\\v1\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\controllers\\v1\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|c:\\users\\vsanc\\documents\\github\\dsicode.micro\\microservices.auth.api\\microservices.auth.api\\microservices.auth.api\\migrations\\20250513221052_database-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7F2FB-4023-4903-A319-FE163799385A}|Microservices.Auth.Api\\Microservices.Auth.Api.csproj|solutionrelative:microservices.auth.api\\migrations\\20250513221052_database-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Microservices.Auth.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T05:55:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\appsettings.json",
+              "RelativeToolTip": "Microservices.Auth.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T22:53:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Microservices.Auth.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T22:11:39.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250513221052_database-v1.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Migrations\\20250513221052_database-v1.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Migrations\\20250513221052_database-v1.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Migrations\\20250513221052_database-v1.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Migrations\\20250513221052_database-v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:10:53.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthApiController.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Controllers\\V1\\AuthApiController.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Controllers\\V1\\AuthApiController.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Controllers\\V1\\AuthApiController.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Controllers\\V1\\AuthApiController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:30:02.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Program.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:21:05.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\AuthService.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Service\\AuthService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T22:35:09.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:41:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\Dto\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\Dto\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:52:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:47:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T22:27:01.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Service\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Service\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:20:23.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T22:30:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\Dto\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\LoginRequestDto.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\Dto\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:49:57.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:50:17.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:53:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:33:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\JwtOptions.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:33:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Auth.Api\\Models\\Dto\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Documents\\GitHub\\Dsicode.Micro\\Microservices.Auth.Api\\Microservices.Auth.Api\\Microservices.Auth.Api\\Models\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "Microservices.Auth.Api\\Models\\Dto\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:55:02.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

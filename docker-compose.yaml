@@ -1,0 +1,28 @@
+services:
+  mysql_db:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: AuthDB
+      MYSQL_USER: sa
+      MYSQL_PASSWORD: 12345678
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  auth_api:
+    build: .
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=mysql_db;Database=AuthDB;User=appuser;Password=AppUserPass
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5000:80"
+    depends_on:
+      mysql_db:
+        condition: service_healthy
