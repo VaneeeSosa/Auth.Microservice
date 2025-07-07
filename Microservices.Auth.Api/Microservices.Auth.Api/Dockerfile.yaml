@@ -1,0 +1,25 @@
+# Etapa de construcción
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+WORKDIR /src
+
+# Copiar solo los archivos necesarios para restaurar dependencias
+COPY ["Microservices.Auth.Api/Microservices.Auth.Api.csproj", "Microservices.Auth.Api/"]
+RUN dotnet restore "Microservices.Auth.Api/Microservices.Auth.Api.csproj"
+
+# Copiar todo el código y construir
+COPY . .
+WORKDIR "/src/Microservices.Auth.Api"
+RUN dotnet build "Microservices.Auth.Api.csproj" -c Release -o /app/build
+
+# Publicar la aplicación
+RUN dotnet publish "Microservices.Auth.Api.csproj" -c Release -o /app/publish
+
+# Etapa final
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/publish .
+
+# Añadir migraciones
+COPY --from=build /src/Migrations ./Migrations
+
+ENTRYPOINT ["dotnet", "Microservices.Auth.Api.dll"]
